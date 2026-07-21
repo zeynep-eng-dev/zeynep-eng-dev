@@ -1,86 +1,72 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zeynep-eng-dev/zeynep-eng-dev/main/computer-girl-pink-animation.gif" width="350px" alt="Bilgisayarla uğraşan animasyonlu kadın illüstrasyonu">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:FF69B4&height=200&section=header&text=Merhaba,%20Ben%20Zeynep!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
-
 <div align="center">
-  <p align="center" style="font-size: 18px; color: #DB7093;">
-    <strong>Software Developer 🚀 | Computer Engineering Student 💻 | Full-Stack & Embedded Systems Learner ⚙️</strong>
-  </p>
 
-  <p align="center" style="color: #FF1493;">
-    <em>"Kod satırları arasında kaybolan, problemler çözen ve yeni şeyler öğrenen tutkulu bir mühendis adayı."</em>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Merhaba,%20Ben%20Zeynep!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zeynep-eng-dev.zeynep-eng-dev&left_color=FFC0CB&right_color=FF69B4&type=step" alt="Ziyaretçi Sayacı" />
+<br>
+
+<a href="https://github.com/zeynep-eng-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D946EF&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%9A%80;Computer+Engineering+Student+%F0%9F%92%BB;Full-Stack+%26+Embedded+Systems+Learner+%E2%9A%99%EF%B8%8F;Kod+satirlari+arasinda+kaybolan+bir+muhendis+adayi." alt="Typing SVG" />
+</a>
+
 </div>
 
----
+<br>
 
-### 🌟 Hakkımda
+## 🌟 Hakkımda
 
-Bilgisayar mühendisliği öğrencisiyim ve yazılım geliştirmenin farklı alanlarını keşfetmekten büyük keyif alıyorum. Fikirleri kod haline getirmeyi, yeni bir kavramı anlayana kadar üzerinde çalışmayı ve karşılaştığım sorunları çözerek ilerlemeyi seviyorum. Şu anda kendimi özellikle **Full-Stack Geliştirme** (Backend, Frontend ve Veritabanı Yönetimi) üzerine odaklayarak düzenli pratik yapıyorum. Öğrendiğim her şeyi gerçek dünya problemlerine dokunan küçük ama etkili projelerle pekiştirmeyi tercih ediyorum. 💡
+Bilgisayar mühendisliği öğrencisiyim ve yazılım geliştirmenin farklı alanlarını keşfetmekten büyük keyif alıyorum. Fikirleri kod haline getirmeyi, yeni bir kavramı anlayana kadar üzerinde çalışmayı ve karşılaştığım sorunları çözerek ilerlemeyi seviyorum.
 
----
+Şu anda kendimi özellikle **Full-Stack Geliştirme** (Backend, Frontend ve Veritabanı Yönetimi) üzerine odaklayarak düzenli pratik yapıyorum. Öğrendiğim her şeyi gerçek dünya problemlerine dokunan küçük ama etkili projelerle pekiştirmeyi tercih ediyorum. 💡
 
-### 💻 Teknoloji Altyapısı
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-E75480?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+## 💻 Teknoloji Altyapısı
 
----
+<div align="center">
 
-### 🌱 Şu Anda Öğreniyorum
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode,idea,pycharm,linux&perline=6" />
 
-*   **💾 SQL & Veritabanı Yönetimi:** İlişkisel veritabanları (PostgreSQL, MySQL) üzerinde sorgu optimizasyonu ve yapı tasarımı üzerine çalışıyorum.
-*   **⚙️ Spring Boot (Backend):** RESTful API geliştirme süreçleri, güvenlik altyapıları ve mikroservis mimarilerinin temellerini öğreniyorum.
-*   **🎨 React (Frontend):** Modern bileşen tabanlı arayüz geliştirme, hooks ve state yönetimi konularında pratikler yapıyorum.
+</div>
 
----
+<br>
 
-### 🎯 İlgi Alanları
+## 🌱 Şu Anda Öğreniyorum
 
-*   💻 **Full-Stack Geliştirme:** Web tabanlı uçtan uca uygulamalar tasarlamak.
-*   🧠 **Yazılım Mimarisi & Tasarım Desenleri:** Sürdürülebilir ve temiz kod yazım prensipleri.
-*   🤖 **Gömülü Sistemler & IoT:** Donanım ve yazılımı bir araya getiren kontrol sistemleri.
-*   📊 **Veri Yapıları & Algoritmalar:** Algoritmik düşünme becerilerini geliştirme.
+\```text
+💾 SQL & Veritabanı Yönetimi   → PostgreSQL, MySQL sorgu optimizasyonu ve yapı tasarımı
+⚙️  Spring Boot (Backend)       → RESTful API, güvenlik altyapıları, mikroservis mimarisi
+🎨 React (Frontend)            → Bileşen tabanlı arayüz, hooks ve state yönetimi
+\```
 
----
+## 🎯 İlgi Alanları
 
-### 📊 İstatistiklerim
+- 💻 **Full-Stack Geliştirme** — Web tabanlı uçtan uca uygulamalar tasarlamak
+- 🧠 **Yazılım Mimarisi & Tasarım Desenleri** — Sürdürülebilir ve temiz kod yazım prensipleri
+- 🤖 **Gömülü Sistemler & IoT** — Donanım ve yazılımı bir araya getiren kontrol sistemleri
+- 📊 **Veri Yapıları & Algoritmalar** — Algoritmik düşünme becerilerini geliştirme
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeynep-eng-dev&show_icons=true&theme=radical&hide_border=true&locale=tr&count_private=true" alt="Zeynep GitHub İstatistikleri" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynep-eng-dev&layout=compact&theme=radical&locale=tr" alt="En Çok Kullanılan Diller" />
-</p>
+## 📊 İstatistiklerim
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynep-eng-dev&theme=radical&hide_border=true&locale=tr&ring=ff69b4&fire=ff69b4&sideNums=ff69b4&sideLabels=ff69b4&currStreakNum=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-### 🐍 Katkı Yılanı
+<img src="https://github-readme-stats.vercel.app/api?username=zeynep-eng-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynep-eng-dev&theme=radical&hide_border=true" height="165"/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeynep-eng-dev/zeynep-eng-dev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeynep-eng-dev/zeynep-eng-dev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zeynep-eng-dev/zeynep-eng-dev/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynep-eng-dev&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
 
 
 
