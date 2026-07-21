@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:FF69B4&height=200&section=header&text=Merhaba,%20Ben%20Zeynep!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
@@ -55,8 +54,18 @@ Bilgisayar mühendisliği öğrencisiyim ve yazılım geliştirmenin farklı ala
 
 ---
 
+### 📊 İstatistiklerim
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeynep-eng-dev&show_icons=true&theme=pink&hide_border=true&locale=tr" alt="Zeynep GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynep-eng-dev&layout=compact&theme=pink" alt="En Çok Kullanılan Diller" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynep-eng-dev&theme=pink&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
