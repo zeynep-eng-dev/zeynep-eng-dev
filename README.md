@@ -32,11 +32,13 @@ Bilgisayar mühendisliği öğrencisiyim ve yazılım geliştirmenin farklı ala
 
 ## 🌱 Şu Anda Öğreniyorum
 
-\```text
-💾 SQL & Veritabanı Yönetimi   → PostgreSQL, MySQL sorgu optimizasyonu ve yapı tasarımı
-⚙️  Spring Boot (Backend)       → RESTful API, güvenlik altyapıları, mikroservis mimarisi
-🎨 React (Frontend)            → Bileşen tabanlı arayüz, hooks ve state yönetimi
-\```
+SQL ve veritabanı yönetimi konusunda PostgreSQL ile MySQL üzerinde sorgu optimizasyonu ve yapı tasarımı üzerine çalışıyorum. Backend tarafında Spring Boot ile RESTful API geliştirme süreçlerini, güvenlik altyapılarını ve mikroservis mimarilerinin temellerini öğreniyorum. Frontend tarafında ise React ile modern bileşen tabanlı arayüz geliştirme, hooks ve state yönetimi konularında pratik yapıyorum.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="400">
+</div>
+
+<br>
 
 ## 🎯 İlgi Alanları
 
