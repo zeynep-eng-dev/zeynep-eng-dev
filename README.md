@@ -4,9 +4,9 @@
 
 <br>
 
-<a href="https://github.com/zeynep-eng-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D946EF&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%9A%80;Computer+Engineering+Student+%F0%9F%92%BB;Full-Stack+%26+Embedded+Systems+Learner+%E2%9A%99%EF%B8%8F;Kod+satirlari+arasinda+kaybolan+bir+muhendis+adayi." alt="Typing SVG" />
-</a>
+**Software Developer 🚀 | Computer Engineering Student 💻 | Full-Stack & Embedded Systems Learner ⚙️**
+
+*"Kod satırları arasında kaybolan, problemler çözen ve yeni şeyler öğrenen tutkulu bir mühendis adayı."*
 
 </div>
 
@@ -32,7 +32,9 @@ Bilgisayar mühendisliği öğrencisiyim ve yazılım geliştirmenin farklı ala
 
 ## 🌱 Şu Anda Öğreniyorum
 
-SQL ve veritabanı yönetimi konusunda PostgreSQL ile MySQL üzerinde sorgu optimizasyonu ve yapı tasarımı üzerine çalışıyorum. Backend tarafında Spring Boot ile RESTful API geliştirme süreçlerini, güvenlik altyapılarını ve mikroservis mimarilerinin temellerini öğreniyorum. Frontend tarafında ise React ile modern bileşen tabanlı arayüz geliştirme, hooks ve state yönetimi konularında pratik yapıyorum.
+- 💾 **SQL & Veritabanı Yönetimi** — PostgreSQL, MySQL üzerinde sorgu optimizasyonu ve yapı tasarımı
+- ⚙️ **Spring Boot (Backend)** — RESTful API geliştirme, güvenlik altyapıları ve mikroservis mimarisi
+- 🎨 **React (Frontend)** — Bileşen tabanlı arayüz geliştirme, hooks ve state yönetimi
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="400">
