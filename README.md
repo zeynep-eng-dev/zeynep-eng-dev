@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/zeynep-eng-dev/zeynep-eng-dev/main/computer-girl-pink-animation.gif" width="350px" alt="Bilgisayarla uğraşan animasyonlu kadın illüstrasyonu">
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:FF69B4&height=200&section=header&text=Merhaba,%20Ben%20Zeynep!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
