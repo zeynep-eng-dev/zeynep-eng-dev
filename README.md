@@ -68,5 +68,15 @@ Bilgisayar mühendisliği öğrencisiyim ve yazılım geliştirmenin farklı ala
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynep-eng-dev&theme=radical&hide_border=true&locale=tr&ring=ff69b4&fire=ff69b4&sideNums=ff69b4&sideLabels=ff69b4&currStreakNum=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
 </p>
 
+### 🐍 Katkı Yılanı
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeynep-eng-dev/zeynep-eng-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeynep-eng-dev/zeynep-eng-dev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zeynep-eng-dev/zeynep-eng-dev/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 
 
